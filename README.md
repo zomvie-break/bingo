@@ -34,5 +34,15 @@ Once you your images in a specific directory and you made the changes to the `ma
 Simply run `./main.py` from the terminal.
 
 
+## Samples
+
+### Board samples
+
+![Board sample](samples/board_sample.png)
+
+### Card sample
+![Card sample](samples/card_sample.png)
+
+
 
 Enjoy!
